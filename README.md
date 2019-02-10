@@ -19,12 +19,11 @@ In the Loadstar - Annotations file, you will see a detailed proposal on how to p
 
 1.  CHECK PATHS.PY FILE. MAKE the necessary adjustments for your default database file path via changing these variable values:
 
+*  DEFAULT_DATABASE_PATH = 'C:/Users/ahmet/PycharmProjects/Loadstar/database/loadstar'
 
-DEFAULT_DATABASE_PATH = 'C:/Users/ahmet/PycharmProjects/Loadstar/database/loadstar'
+*  DATABASE_FOLDER = 'C:/Users/ahmet/PycharmProjects/Loadstar/database'
 
-DATABASE_FOLDER = 'C:/Users/ahmet/PycharmProjects/Loadstar/database'
-
-TEST_DATABASE_PATH = 'C:/Users/ahmet/PycharmProjects/Loadstar/database/loadstartest'
+*  TEST_DATABASE_PATH = 'C:/Users/ahmet/PycharmProjects/Loadstar/database/loadstartest'
 
 
 
