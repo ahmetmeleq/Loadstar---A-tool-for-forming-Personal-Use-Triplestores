@@ -25,9 +25,7 @@ In the Loadstar - Annotations file, you will see a detailed proposal on how to p
 
 *  TEST_DATABASE_PATH = 'C:/Users/ahmet/PycharmProjects/Loadstar/database/loadstartest'
 
-
-
-Carefully investigate paths.py file before starting to test anything. Try to understand the variables.
+*  Carefully investigate paths.py file before starting to test anything. Try to understand the variables.
 You can also make optional adjustments to the default user, default table name etc. however it is advised to test the project with their original forms at first.
 
 
