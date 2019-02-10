@@ -33,7 +33,7 @@ You can also make optional adjustments to the default user, default table name e
 
 2.  Open the test.py file, and start testing. The operations are ORDERED. So it is advised for you to work them in order. Otherwise there could be complications such as trying to create a table without a database existing.
 
-print_graph functions are optional to run. However they provide nice feedback to check if the operations worked.
+*  print_graph functions are optional to run. However they provide nice feedback to check if the operations worked.
 
 
 
